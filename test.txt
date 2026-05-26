@@ -1,0 +1,2 @@
+This is a test file for click.exe.
+If this opens, it means default file opening works!
